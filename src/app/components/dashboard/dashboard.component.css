@@ -1,0 +1,7 @@
+.card {
+  height: 500px;
+}
+.task {
+  overflow-y: auto;
+  height: 35px;
+}
